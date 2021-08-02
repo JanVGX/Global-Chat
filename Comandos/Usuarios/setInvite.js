@@ -14,7 +14,7 @@ code: `
 
   $onlyIf[$checkContains[$message[1];discord.gg/]!=false;{description: ¡Hey! El link que indicaste no es una invitación del servidor.}{color: ff0000}]
 
-  $argsCheck[>1;{description: ¡Hey! Debes indicar la invitación después del trigger (preferiblemente permanente)}{color: ff0000}]
+  $argsCheck[>1;{description: Hey!You must indicate the invitation after the trigger (preferably permanent)}{color: ff0000}]
 
   $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: ¡Hey! Debes darme más permisos para poder hacer eso.}{color: ff0000}]
 
