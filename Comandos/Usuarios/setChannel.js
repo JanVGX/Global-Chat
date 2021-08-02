@@ -16,7 +16,7 @@ code: `
 
   $onlyIf[$channelExists[$findChannel[$channelID]]==true;]
 
-  $onlyPerms[managechannels;{description::x: ¡Necesitas más permisos para poder ejecutar este comando!}{color: ff0000}]
+  $onlyPerms[managechannels;{description::x: You need more permissions to be able to execute this command!}{color: ff0000}]
 
   $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: ¡Hey! Debes darme más permisos para poder hacer eso.}{color: ff0000}]
 
