@@ -8,7 +8,7 @@ code: `
 
   $color[GREEN]
 
-  $description[De acuerdo <@$authorID>, desde ahora el Chat Global estará configurado a <#$findChannel[$message]>, establece ahora una invitación con **c/setInvite**]
+  $description[Ok <@$authorID>, from now on the Global Chat will be set to <#$findChannel[$message]>, now set an invitation with **c!setInvite**]
 
   $setServerVar[chatchannel;$findChannel[$channelID]]
 
