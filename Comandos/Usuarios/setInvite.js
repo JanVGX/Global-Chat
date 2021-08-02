@@ -6,7 +6,7 @@ code: `
 
   $color[GREEN]
 
-  $description[De acuerdo <@$authorID>, desde ahora la invitación de este servidor para Chat Global estará configurada a $message[1] (Recomendamos que la invitación no expire nunca)]
+  $description[Ok <@$authorID>, from now on this server's invitation for Global Chat will be set to $message[1] (We recommend that the invitation never expire)]
 
   $wait[1s]
 
