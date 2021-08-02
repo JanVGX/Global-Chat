@@ -1,6 +1,8 @@
 {
 
-	"prefix": "c/", 	"token": "Ur bot token", 
+	"prefix": "c/", 	
+	
+	"token": "Ur bot token", 
 
   "mobilepresence": "true",
 
