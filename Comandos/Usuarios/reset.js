@@ -8,7 +8,7 @@ code: `
 
   $color[GREEN]
 
-  $description[De acuerdo $username, he restablecido los valores del Chat Global, vuelve a configurarlo con **c/setChannel** y **c/setInvite**
+  $description[Okay $username, I have reset the Global Chat values, reconfigure it with **c/setChannel** y **c/setInvite**
 
   
 
