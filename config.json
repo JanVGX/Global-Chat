@@ -1,0 +1,11 @@
+{
+
+	"prefix": "c/", 	"token": "Ur bot token", 
+
+  "mobilepresence": "true",
+
+  "autoupdate": "true", 
+
+  "webmessage": "¡Bot Online!" 
+
+}
