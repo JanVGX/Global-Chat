@@ -18,7 +18,7 @@ code: `
 
   $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: Hey!You must give me more permissions to be able to do that.}{color: ff0000}]
 
-  $onlyPerms[admin;{description: ¡Hey! Debes ser administrador del servidor para utilizar este comando.}{color: ff0000}]
+  $onlyPerms[admin;{description: Hey!You must be a server administrator to use this command.}{color: ff0000}]
 
   $suppressErrors
 
