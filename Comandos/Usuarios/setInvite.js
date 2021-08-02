@@ -12,7 +12,7 @@ code: `
 
   $setServerVar[chatinvite;$message[1]]
 
-  $onlyIf[$checkContains[$message[1];discord.gg/]!=false;{description: ¡Hey! El link que indicaste no es una invitación del servidor.}{color: ff0000}]
+  $onlyIf[$checkContains[$message[1];discord.gg/]!=false;{description: Hey!The link you indicated is not an invitation from the server.}{color: ff0000}]
 
   $argsCheck[>1;{description: Hey!You must indicate the invitation after the trigger (preferably permanent)}{color: ff0000}]
 
