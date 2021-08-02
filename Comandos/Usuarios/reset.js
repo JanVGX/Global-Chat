@@ -16,7 +16,7 @@ code: `
 
   $resetServerVar[chatinvite]
 
-  $onlyIf[$getServerVar[chatchannel]!=Sin establecer;{color: ff0000}{description: ¡Hey! Por el momento no hay ningún canal establecido para el Chat Global. Configuralo con **c/setChannel**}]]
+  $onlyIf[$getServerVar[chatchannel]!=Sin establecer;{color: ff0000}{description: Hey!At the moment there is no channel established for Global Chat. Set it up with **c/setChannel**}]]
 
   $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: ¡Hey! Debes darme más permisos para poder hacer eso.}{color: ff0000}]
 
