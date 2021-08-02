@@ -8,3 +8,4 @@ To install the packages type `npm init` and `npm i discord.js`
 T see all Fetures type in your Discord Channel `c!help`
 
 # Token and Prefix 
+Go to `config.json` and paste your Token in there 
