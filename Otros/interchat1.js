@@ -10,7 +10,7 @@ code: `
 
   $deleteCommand
 
-  $onlyIf[$getGlobalUserVar[userban]!=Baneado;{description: ¡Oye $username! No puedes enviar mensajes en el Chat Global, estás baneado. Apela aquí: https://discord.gg/GeVRXn8KZ3}{color: ff0000}{delete:5s}]
+  $onlyIf[$getGlobalUserVar[userban]!=Baneado;{description: Hey $username! Sie können im Global Chat keine Nachrichten senden, Sie sind gesperrt. Beschwerde hier https://discord.gg/GeVRXn8KZ3}{color: ff0000}{delete:5s}]
 
   $onlyIf[$channelID==$getServerVar[chatchannel;$guildID]]
 
