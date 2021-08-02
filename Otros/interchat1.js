@@ -6,7 +6,7 @@ code: `
 
   $forEachChannel[interchat]
 
-  $cooldown[7s;{description: Hey! Versende nicht so schnell Nachrichten $username.}{color: ff0000}{delete:2s}]
+  $cooldown[7s;{description: Hey! Don't send messages so quickly $username.}{color: ff0000}{delete:2s}]
 
   $deleteCommand
 
