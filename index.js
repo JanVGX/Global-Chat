@@ -30,7 +30,7 @@ chatinvite: "Sin establecer",
 
 embedcolor: "#74b559",
 
-userrole: ":busts_in_silhouette: USUARIO",
+userrole: ":busts_in_silhouette: User",
 
 userban: "No baneado"
 
