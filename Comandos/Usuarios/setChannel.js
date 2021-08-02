@@ -18,7 +18,7 @@ code: `
 
   $onlyPerms[managechannels;{description::x: You need more permissions to be able to execute this command!}{color: ff0000}]
 
-  $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: ¡Hey! Debes darme más permisos para poder hacer eso.}{color: ff0000}]
+  $onlyBotPerms[manageserver;managemessages;sendmessages;viewchannel;managechannels;{description: Hey!You must give me more permissions to be able to do that.}{color: ff0000}]
 
   $onlyPerms[admin;{description: ¡Hey! Debes ser administrador del servidor para utilizar este comando.}{color: ff0000}]
 
