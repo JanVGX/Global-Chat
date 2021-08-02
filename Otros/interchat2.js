@@ -8,13 +8,13 @@ code: `
 
 $useChannel[$getServerVar[chatchannel]]
 
-$description[**$getGlobalUserVar[userrole]** | :inbox_tray: **[UNIRSE AL SERVIDOR]($getServerVar[chatinvite])** 
+$description[**$getGlobalUserVar[userrole]** | :inbox_tray: **[User's Server]($getServerVar[chatinvite])** 
 
 <@$authorID>: $message]
 
 $author[$username#$discriminator • $authorID;$authorAvatar]
 
-$footer[$serverName | $membersCount usuarios;$serverIcon]
+$footer[$serverName | $membersCount Member;$serverIcon]
 
 $color[$getGlobalUserVar[embedcolor]]
 
